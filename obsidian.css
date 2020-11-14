@@ -671,3 +671,19 @@ input[type=checkbox]:checked {
   cursor: pointer;
   filter: hue-rotate(250deg);
 } */
+
+/* ======================================================== */
+/* Publish stuff  */
+/* ======================================================== */
+
+/* Hide the title, I'll manually do it in each page */
+.page-header {
+  font-size: 18px;
+  border: solid;
+  border-width: 0px 0px 1px 0px;
+}
+
+/* Backlink Pane match background */
+.backlink-pane {
+	background-color: var(--background-nav);
+}
